@@ -12,7 +12,7 @@
   <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fajarxd&layout=compact&theme=chartreuse-dark">
 </p>
 <p align="center">
-  <a href="https://github.com/fajarxd/wmbf"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarxd&repo=fajarxd&theme=chartreuse-dark"></a></p>
+  <a href="https://github.com/fajarxd/wmbf"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarxd&repo=wmbf&theme=chartreuse-dark"></a></p>
 <h3 align="center">
   <a href="https://saweria.co/fajarxd" target="blank">Support Me!</a>
 </h3>
