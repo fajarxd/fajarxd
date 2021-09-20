@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="1000" height="400" src="https://user-images.githubusercontent.com/76211798/129931208-6af05b6a-f22a-4927-92a2-94132f5575db.jpg">
+  <img width="1000" height="400" src="https://user-images.githubusercontent.com/89444198/133989892-9224c67d-c59b-4327-9e7c-7f1c56fe07ef.jpg)
+
 </p>
 <h1 align="center">
   <b>Hello Guys!<b> <a href="https://www.facebook.com/FajarDxD" target="blank">Fajar DxD</a> Was Here
