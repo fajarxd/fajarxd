@@ -3,7 +3,7 @@
 
 </p>
 <h1 align="center">
-  <b>Hello Guys!<b> <a href="https://www.facebook.com/FajarDxD" target="blank">Fajar DxD</a> Was Here
+  <b>Hello <b> <a href="https://www.facebook.com/FajarDxD" target="blank">Fajar DxD</a> Was Here
 </h1>
 <p align="center">
   <img width="600" height="220" src="https://github-readme-stats.vercel.app/api?username=fajarxd&show_icons=true&theme=chartreuse-dark&locale=id">
