@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/fajarxd/wmbf"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarxd&repo=wmbf&theme=chartreuse-dark"></a></p>
-  <a href="https://github.com/fajarxd/Kurumi-Cans"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarxd&repo=Kurumi-Cans&theme=chartreuse-dark"></a></p>
+  <a href="https://github.com/fajarxd/LisciaElfrieden"><img width="400" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=fajarxd&repo=LisciaElfrieden&theme=chartreuse-dark"></a></p>
 <h3 align="center">
   <a href="https://saweria.co/fajarxd" target="blank">Support Me!</a>
 </h3>
